@@ -3,7 +3,8 @@
     "stats": [
         {"name": "durability",      "value": 4096},
         {"name": "armor_durability","value":   42},
-        {"name": "enchantability",  "value":    7},
+        {"name": "enchantability",  "value":    8},
+        {"name": "Repair_Efficiency,"value": -0.5},
         {"name": "harvest_level",   "value":    3},
         {"name": "harvest_speed",   "value":    5},
         {"name": "melee_damage",    "value":    3},
@@ -15,7 +16,7 @@
         {"name": "ranged_damage",   "value":    0},
         {"name": "ranged_speed",    "value": -0.4},
         {"name": "rarity",          "value":   30},
-        {"name": "chargeability",   "value":  0.8}
+        {"name": "chargeability",   "value":  0.9}
     ],
     "traits": [
         {"name": "silentgear:jagged", "level": 4},
